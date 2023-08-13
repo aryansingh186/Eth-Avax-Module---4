@@ -52,4 +52,4 @@ If you encounter any common problems or issues while using the smart contract, r
 
 ## License
 
-This project is licensed under the MIT [LICENSE]
+This project is licensed under the MIT [https://github.com/aryansingh186/Eth-Avax-Module---4/blob/9097f2bb0e0dbc0db4883a4319761d6f73803c40/LICENSE]
